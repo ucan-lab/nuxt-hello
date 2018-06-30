@@ -8,6 +8,8 @@
   </section>
 </template>
 
+<style src="~/assets/sample.scss"></style>
+
 <script>
 export default {
   layout: "article_layout",
