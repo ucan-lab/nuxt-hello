@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="container">
     article layout
     <nuxt />
   </div>
