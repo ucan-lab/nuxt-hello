@@ -10,6 +10,7 @@
 
 <script>
 export default {
-  layout: "article_layout"
+  layout: "article_layout",
+  middleware: ["visit"]
 }
 </script>
